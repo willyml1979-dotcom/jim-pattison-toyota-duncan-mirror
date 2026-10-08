@@ -1,6 +1,6 @@
 {
   "dealership": "Jim Pattison Toyota Duncan",
-  "generated_at": "2026-09-26T12:33:44",
+  "generated_at": "2026-10-08T14:39:26",
   "vehicle_count": 49,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -10,6 +10,7 @@
       "vin": "2T3JFREVXHW576679",
       "stock": "DN26261",
       "color": "Grey",
+      "trim": "SE",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-duncan-mirror/used/42c6956fc1cd.html",
       "source_url": "https://www.jptoyota-duncan.com/vehicles/2017/toyota/rav4/duncan/bc/71244059/?sale_class=used",
       "dealer_url": "https://www.jptoyota-duncan.com/vehicles/2017/toyota/rav4/duncan/bc/71244059/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -19,14 +20,17 @@
       "odometer_km": 184716,
       "year": 2017,
       "make": "Toyota",
-      "model": "RAV4 SE AWD",
-      "condition": "used"
+      "model": "RAV4",
+      "condition": "used",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2020 Chevrolet Traverse LT 4WD | 3rd Row | No Accidents",
       "vin": "1GNEVGKW0LJ289226",
       "stock": "DN26270",
       "color": "Silver",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-duncan-mirror/used/4456082fea19.html",
       "source_url": "https://www.jptoyota-duncan.com/vehicles/2020/chevrolet/traverse/duncan/bc/71130437/?sale_class=used",
       "dealer_url": "https://www.jptoyota-duncan.com/vehicles/2020/chevrolet/traverse/duncan/bc/71130437/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -36,14 +40,17 @@
       "odometer_km": 54913,
       "year": 2020,
       "make": "Chevrolet",
-      "model": "Traverse LT 4WD",
-      "condition": "used"
+      "model": "Traverse",
+      "condition": "used",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2020 Toyota 4Runner TRD PRO | Roof Rack | Trailer Hitch",
       "vin": "JTEBU5JR8L5747131",
       "stock": "N27002A",
       "color": "White",
+      "trim": "TRD PRO",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-duncan-mirror/used/451ae570c5dc.html",
       "source_url": "https://www.jptoyota-duncan.com/vehicles/2020/toyota/4runner/duncan/bc/70928592/?sale_class=used",
       "dealer_url": "https://www.jptoyota-duncan.com/vehicles/2020/toyota/4runner/duncan/bc/70928592/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -53,14 +60,17 @@
       "odometer_km": 147420,
       "year": 2020,
       "make": "Toyota",
-      "model": "4Runner TRD PRO",
-      "condition": "used"
+      "model": "4Runner",
+      "condition": "used",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2020 Toyota Highlander Hybrid Limited | Locally Owned | Fully Loaded",
       "vin": "5TDDBRCH5LS004659",
       "stock": "DN26294",
       "color": "White",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-duncan-mirror/used/b230ec11c1f5.html",
       "source_url": "https://www.jptoyota-duncan.com/vehicles/2020/toyota/highlander-hybrid/duncan/bc/71356243/?sale_class=used",
       "dealer_url": "https://www.jptoyota-duncan.com/vehicles/2020/toyota/highlander-hybrid/duncan/bc/71356243/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -70,14 +80,17 @@
       "odometer_km": 128348,
       "year": 2020,
       "make": "Toyota",
-      "model": "Highlander Hybrid Limited",
-      "condition": "used"
+      "model": "Highlander Hybrid",
+      "condition": "used",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2022 Toyota Camry Sedan LE FWD | Heated Seats | Bluetooth Audio",
       "vin": "4T1C11AK7NU662959",
       "stock": "N26266B",
       "color": "White",
+      "trim": "LE",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-duncan-mirror/used/22c150cab055.html",
       "source_url": "https://www.jptoyota-duncan.com/vehicles/2022/toyota/camry-sedan/duncan/bc/71368443/?sale_class=used",
       "dealer_url": "https://www.jptoyota-duncan.com/vehicles/2022/toyota/camry-sedan/duncan/bc/71368443/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -87,14 +100,17 @@
       "odometer_km": 81633,
       "year": 2022,
       "make": "Toyota",
-      "model": "Camry Sedan LE FWD",
-      "condition": "used"
+      "model": "Camry",
+      "condition": "used",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2023 Toyota 4Runner TRD Sport | Locally Owned | Upgraded Wheels+Tires",
       "vin": "JTESU5JR0P6131603",
       "stock": "N26246A",
       "color": "White",
+      "trim": "TRD Sport",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-duncan-mirror/used/58f0e15e5a5b.html",
       "source_url": "https://www.jptoyota-duncan.com/vehicles/2023/toyota/4runner/duncan/bc/71172615/?sale_class=used",
       "dealer_url": "https://www.jptoyota-duncan.com/vehicles/2023/toyota/4runner/duncan/bc/71172615/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -104,14 +120,17 @@
       "odometer_km": 82838,
       "year": 2023,
       "make": "Toyota",
-      "model": "4Runner TRD Sport",
-      "condition": "used"
+      "model": "4Runner",
+      "condition": "used",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2024 GMC Canyon 4WD Crew Cab AT4 | Bed Canopy | Tow Package",
       "vin": "1GTP6DEK6R1127728",
       "stock": "DN26207",
       "color": "Brown",
+      "trim": "AT4",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-duncan-mirror/used/cca57d35f631.html",
       "source_url": "https://www.jptoyota-duncan.com/vehicles/2024/gmc/canyon/duncan/bc/70473524/?sale_class=used",
       "dealer_url": "https://www.jptoyota-duncan.com/vehicles/2024/gmc/canyon/duncan/bc/70473524/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -121,14 +140,17 @@
       "odometer_km": 46749,
       "year": 2024,
       "make": "GMC",
-      "model": "Canyon 4WD Crew Cab AT4",
-      "condition": "used"
+      "model": "Canyon",
+      "condition": "used",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2024 Toyota Tacoma TRD Off Road | No Accidents | Running Boards",
       "vin": "3TYLB5JN0RT012548",
       "stock": "N26295A",
       "color": "Silver",
+      "trim": "TRD Off Road",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-duncan-mirror/used/bf2227eab095.html",
       "source_url": "https://www.jptoyota-duncan.com/vehicles/2024/toyota/tacoma/duncan/bc/71378527/?sale_class=used",
       "dealer_url": "https://www.jptoyota-duncan.com/vehicles/2024/toyota/tacoma/duncan/bc/71378527/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -138,14 +160,17 @@
       "odometer_km": 52705,
       "year": 2024,
       "make": "Toyota",
-      "model": "Tacoma TRD Off Road",
-      "condition": "used"
+      "model": "Tacoma",
+      "condition": "used",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2025 Ford Escape Active AWD | Remote Start | No Accidents",
       "vin": "1FMCU9GN9SUB07756",
       "stock": "DH1808",
       "color": "White",
+      "trim": "Active",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-duncan-mirror/used/d89b049a5e3f.html",
       "source_url": "https://www.jptoyota-duncan.com/vehicles/2025/ford/escape/duncan/bc/71304665/?sale_class=used",
       "dealer_url": "https://www.jptoyota-duncan.com/vehicles/2025/ford/escape/duncan/bc/71304665/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -155,14 +180,17 @@
       "odometer_km": 48814,
       "year": 2025,
       "make": "Ford",
-      "model": "Escape Active AWD",
-      "condition": "used"
+      "model": "Escape",
+      "condition": "used",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2025 Hyundai Tucson Plug-In Hybrid Ultimate | Fully Loaded | Low KMs",
       "vin": "KM8JDDD28SU297862",
       "stock": "N26120B",
       "color": "Blue",
+      "trim": "Ultimate",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-duncan-mirror/used/97da8534fd72.html",
       "source_url": "https://www.jptoyota-duncan.com/vehicles/2025/hyundai/tucson-plug-in-hybrid/duncan/bc/71153885/?sale_class=used",
       "dealer_url": "https://www.jptoyota-duncan.com/vehicles/2025/hyundai/tucson-plug-in-hybrid/duncan/bc/71153885/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -172,14 +200,17 @@
       "odometer_km": 15016,
       "year": 2025,
       "make": "Hyundai",
-      "model": "Tucson Plug-In Hybrid Ultimate",
-      "condition": "used"
+      "model": "Tucson Plug-In Hybrid",
+      "condition": "used",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2025 Kia Sportage LX AWD | Heated Seats | No Accidents",
       "vin": "KNDPUCDF0S7385881",
       "stock": "DH1809",
       "color": "Grey",
+      "trim": "LX",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-duncan-mirror/used/a27df4830d28.html",
       "source_url": "https://www.jptoyota-duncan.com/vehicles/2025/kia/sportage/duncan/bc/71304756/?sale_class=used",
       "dealer_url": "https://www.jptoyota-duncan.com/vehicles/2025/kia/sportage/duncan/bc/71304756/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -189,14 +220,17 @@
       "odometer_km": 62559,
       "year": 2025,
       "make": "Kia",
-      "model": "Sportage LX AWD",
-      "condition": "used"
+      "model": "Sportage",
+      "condition": "used",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota 4Runner Hybrid TRD Off Road",
       "vin": "JTEVB5BR2T5056100",
       "stock": "N26296",
       "color": "White",
+      "trim": "TRD Off Road",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-duncan-mirror/new/287809a95945.html",
       "source_url": "https://www.jptoyota-duncan.com/vehicles/2026/toyota/4runner-hybrid/duncan/bc/71283684/?sale_class=new",
       "dealer_url": "https://www.jptoyota-duncan.com/vehicles/2026/toyota/4runner-hybrid/duncan/bc/71283684/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -206,8 +240,10 @@
       "odometer_km": 163,
       "year": 2026,
       "make": "Toyota",
-      "model": "4Runner Hybrid TRD Off Road",
-      "condition": "new"
+      "model": "4Runner Hybrid",
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota 4Runner 4WD",
@@ -224,7 +260,9 @@
       "year": 2026,
       "make": "Toyota",
       "model": "4Runner 4WD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota 4Runner 4WD",
@@ -241,7 +279,9 @@
       "year": 2026,
       "make": "Toyota",
       "model": "4Runner 4WD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota 4Runner 4WD",
@@ -258,13 +298,16 @@
       "year": 2026,
       "make": "Toyota",
       "model": "4Runner 4WD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Corolla Cross L AWD",
       "vin": "7MUAAABG3TV703049",
       "stock": "JP17030",
       "color": "Sonic Silver Metallic",
+      "trim": "L",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-duncan-mirror/new/eb51bda9ee89.html",
       "source_url": "https://www.jptoyota-duncan.com/vehicles/2026/toyota/corolla-cross/duncan/bc/71209664/?sale_class=new",
       "dealer_url": "https://www.jptoyota-duncan.com/vehicles/2026/toyota/corolla-cross/duncan/bc/71209664/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -274,14 +317,17 @@
       "odometer_km": 17,
       "year": 2026,
       "make": "Toyota",
-      "model": "Corolla Cross L AWD",
-      "condition": "new"
+      "model": "Corolla Cross",
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Corolla Cross LE AWD",
       "vin": "7MUCAABG1TV733112",
       "stock": "JP17331",
       "color": "Soul Red Crystal",
+      "trim": "LE",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-duncan-mirror/new/d6ef255495a2.html",
       "source_url": "https://www.jptoyota-duncan.com/vehicles/2026/toyota/corolla-cross/duncan/bc/71299417/?sale_class=new",
       "dealer_url": "https://www.jptoyota-duncan.com/vehicles/2026/toyota/corolla-cross/duncan/bc/71299417/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -291,14 +337,17 @@
       "odometer_km": 17,
       "year": 2026,
       "make": "Toyota",
-      "model": "Corolla Cross LE AWD",
-      "condition": "new"
+      "model": "Corolla Cross",
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Corolla Cross LE AWD",
       "vin": "7MUCAABG5TV731136",
       "stock": "JP17311",
       "color": "Celestite",
+      "trim": "LE",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-duncan-mirror/new/ce6d955498b3.html",
       "source_url": "https://www.jptoyota-duncan.com/vehicles/2026/toyota/corolla-cross/duncan/bc/71299418/?sale_class=new",
       "dealer_url": "https://www.jptoyota-duncan.com/vehicles/2026/toyota/corolla-cross/duncan/bc/71299418/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -308,14 +357,17 @@
       "odometer_km": 17,
       "year": 2026,
       "make": "Toyota",
-      "model": "Corolla Cross LE AWD",
-      "condition": "new"
+      "model": "Corolla Cross",
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Corolla Cross L FWD",
       "vin": "7MUAAAAG4TV730987",
       "stock": "JP17309",
       "color": "Wind Chill Pearl",
+      "trim": "L",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-duncan-mirror/new/3eafd1f649ba.html",
       "source_url": "https://www.jptoyota-duncan.com/vehicles/2026/toyota/corolla-cross/duncan/bc/71299420/?sale_class=new",
       "dealer_url": "https://www.jptoyota-duncan.com/vehicles/2026/toyota/corolla-cross/duncan/bc/71299420/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -325,14 +377,17 @@
       "odometer_km": 17,
       "year": 2026,
       "make": "Toyota",
-      "model": "Corolla Cross L FWD",
-      "condition": "new"
+      "model": "Corolla Cross",
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Corolla Sedan SE CVT",
       "vin": "5YFB4MBE8TP283111",
       "stock": "D-N2622",
       "color": "Midnight Black Metallic",
+      "trim": "SE",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-duncan-mirror/new/1ab1fc68472d.html",
       "source_url": "https://www.jptoyota-duncan.com/vehicles/2026/toyota/corolla-sedan/duncan/bc/70542885/?sale_class=new",
       "dealer_url": "https://www.jptoyota-duncan.com/vehicles/2026/toyota/corolla-sedan/duncan/bc/70542885/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -342,14 +397,17 @@
       "odometer_km": 1529,
       "year": 2026,
       "make": "Toyota",
-      "model": "Corolla Sedan SE CVT",
-      "condition": "new"
+      "model": "Corolla",
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Corolla Sedan LE CVT",
       "vin": "5YFB4MDE5TP473834",
       "stock": "D-N2624",
       "color": "Celestite",
+      "trim": "LE",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-duncan-mirror/new/19077a5d71d5.html",
       "source_url": "https://www.jptoyota-duncan.com/vehicles/2026/toyota/corolla-sedan/duncan/bc/70713609/?sale_class=new",
       "dealer_url": "https://www.jptoyota-duncan.com/vehicles/2026/toyota/corolla-sedan/duncan/bc/70713609/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -359,14 +417,17 @@
       "odometer_km": 1122,
       "year": 2026,
       "make": "Toyota",
-      "model": "Corolla Sedan LE CVT",
-      "condition": "new"
+      "model": "Corolla",
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Tacoma Tacoma HV Double Cab",
       "vin": "3TYLC5LNXTT074380",
       "stock": "D-N2625",
       "color": "White",
+      "trim": "Tacoma HV Double",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-duncan-mirror/new/4cb5193ac66e.html",
       "source_url": "https://www.jptoyota-duncan.com/vehicles/2026/toyota/tacoma/duncan/bc/70752363/?sale_class=new",
       "dealer_url": "https://www.jptoyota-duncan.com/vehicles/2026/toyota/tacoma/duncan/bc/70752363/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -376,14 +437,17 @@
       "odometer_km": 3849,
       "year": 2026,
       "make": "Toyota",
-      "model": "Tacoma Tacoma HV Double Cab",
-      "condition": "new"
+      "model": "Tacoma",
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Tacoma Tacoma Double Cab at",
       "vin": "3TYLB5JN0TT716896",
       "stock": "JP17168",
       "color": "Underground",
+      "trim": "Tacoma Double at",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-duncan-mirror/new/73a58aefc34c.html",
       "source_url": "https://www.jptoyota-duncan.com/vehicles/2026/toyota/tacoma/duncan/bc/71135957/?sale_class=new",
       "dealer_url": "https://www.jptoyota-duncan.com/vehicles/2026/toyota/tacoma/duncan/bc/71135957/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -393,14 +457,17 @@
       "odometer_km": 17,
       "year": 2026,
       "make": "Toyota",
-      "model": "Tacoma Tacoma Double Cab at",
-      "condition": "new"
+      "model": "Tacoma",
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Tacoma Tacoma Double Cab at",
       "vin": "3TYLB5JN0TT717094",
       "stock": "JP17170",
       "color": "Celestial Silver Metallic",
+      "trim": "Tacoma Double at",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-duncan-mirror/new/e09aa4cc24bf.html",
       "source_url": "https://www.jptoyota-duncan.com/vehicles/2026/toyota/tacoma/duncan/bc/71135961/?sale_class=new",
       "dealer_url": "https://www.jptoyota-duncan.com/vehicles/2026/toyota/tacoma/duncan/bc/71135961/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -410,14 +477,17 @@
       "odometer_km": 17,
       "year": 2026,
       "make": "Toyota",
-      "model": "Tacoma Tacoma Double Cab at",
-      "condition": "new"
+      "model": "Tacoma",
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Tacoma Tacoma Double Cab at",
       "vin": "3TYLB5JN0TT718014",
       "stock": "JP17180",
       "color": "Underground",
+      "trim": "Tacoma Double at",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-duncan-mirror/new/e37fac6e60fd.html",
       "source_url": "https://www.jptoyota-duncan.com/vehicles/2026/toyota/tacoma/duncan/bc/71135985/?sale_class=new",
       "dealer_url": "https://www.jptoyota-duncan.com/vehicles/2026/toyota/tacoma/duncan/bc/71135985/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -427,14 +497,17 @@
       "odometer_km": 17,
       "year": 2026,
       "make": "Toyota",
-      "model": "Tacoma Tacoma Double Cab at",
-      "condition": "new"
+      "model": "Tacoma",
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Tacoma Tacoma Double Cab at",
       "vin": "3TYLB5JN0TT717971",
       "stock": "JP17179",
       "color": "Celestial Silver Metallic",
+      "trim": "Tacoma Double at",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-duncan-mirror/new/9adb06a68487.html",
       "source_url": "https://www.jptoyota-duncan.com/vehicles/2026/toyota/tacoma/duncan/bc/71136002/?sale_class=new",
       "dealer_url": "https://www.jptoyota-duncan.com/vehicles/2026/toyota/tacoma/duncan/bc/71136002/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -444,14 +517,17 @@
       "odometer_km": 17,
       "year": 2026,
       "make": "Toyota",
-      "model": "Tacoma Tacoma Double Cab at",
-      "condition": "new"
+      "model": "Tacoma",
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Tacoma Tacoma Double Cab at",
       "vin": "3TYLB5JN0TT682463",
       "stock": "JP16824",
       "color": "Celestial Silver Metallic",
+      "trim": "Tacoma Double at",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-duncan-mirror/new/15c49766f123.html",
       "source_url": "https://www.jptoyota-duncan.com/vehicles/2026/toyota/tacoma/duncan/bc/71197528/?sale_class=new",
       "dealer_url": "https://www.jptoyota-duncan.com/vehicles/2026/toyota/tacoma/duncan/bc/71197528/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -461,14 +537,17 @@
       "odometer_km": 17,
       "year": 2026,
       "make": "Toyota",
-      "model": "Tacoma Tacoma Double Cab at",
-      "condition": "new"
+      "model": "Tacoma",
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Tacoma Tacoma Double Cab at",
       "vin": "3TYLB5JN9TT716576",
       "stock": "JP17165",
       "color": "Bronze Oxide",
+      "trim": "Tacoma Double at",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-duncan-mirror/new/6c408865e715.html",
       "source_url": "https://www.jptoyota-duncan.com/vehicles/2026/toyota/tacoma/duncan/bc/71250025/?sale_class=new",
       "dealer_url": "https://www.jptoyota-duncan.com/vehicles/2026/toyota/tacoma/duncan/bc/71250025/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -478,14 +557,17 @@
       "odometer_km": 17,
       "year": 2026,
       "make": "Toyota",
-      "model": "Tacoma Tacoma Double Cab at",
-      "condition": "new"
+      "model": "Tacoma",
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Tacoma Tacoma Double Cab at",
       "vin": "3TYLB5JN1TT726308",
       "stock": "JP17263",
       "color": "Heritage Blue",
+      "trim": "Tacoma Double at",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-duncan-mirror/new/1f41c0fd1e6b.html",
       "source_url": "https://www.jptoyota-duncan.com/vehicles/2026/toyota/tacoma/duncan/bc/71272800/?sale_class=new",
       "dealer_url": "https://www.jptoyota-duncan.com/vehicles/2026/toyota/tacoma/duncan/bc/71272800/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -495,14 +577,17 @@
       "odometer_km": 17,
       "year": 2026,
       "make": "Toyota",
-      "model": "Tacoma Tacoma Double Cab at",
-      "condition": "new"
+      "model": "Tacoma",
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Tacoma Tacoma Double Cab at",
       "vin": "3TYLB5JN3TT725645",
       "stock": "JP17256",
       "color": "Bronze Oxide",
+      "trim": "Tacoma Double at",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-duncan-mirror/new/10d70fd23f58.html",
       "source_url": "https://www.jptoyota-duncan.com/vehicles/2026/toyota/tacoma/duncan/bc/71272801/?sale_class=new",
       "dealer_url": "https://www.jptoyota-duncan.com/vehicles/2026/toyota/tacoma/duncan/bc/71272801/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -512,14 +597,17 @@
       "odometer_km": 17,
       "year": 2026,
       "make": "Toyota",
-      "model": "Tacoma Tacoma Double Cab at",
-      "condition": "new"
+      "model": "Tacoma",
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Tacoma Tacoma Double Cab at",
       "vin": "3TYLB5JN6TT728989",
       "stock": "JP17289",
       "color": "Underground",
+      "trim": "Tacoma Double at",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-duncan-mirror/new/bfb6e42e0753.html",
       "source_url": "https://www.jptoyota-duncan.com/vehicles/2026/toyota/tacoma/duncan/bc/71272804/?sale_class=new",
       "dealer_url": "https://www.jptoyota-duncan.com/vehicles/2026/toyota/tacoma/duncan/bc/71272804/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -529,14 +617,17 @@
       "odometer_km": 17,
       "year": 2026,
       "make": "Toyota",
-      "model": "Tacoma Tacoma Double Cab at",
-      "condition": "new"
+      "model": "Tacoma",
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Tacoma Tacoma Double Cab at",
       "vin": "3TYLB5JN3TT725516",
       "stock": "JP17255",
       "color": "Bronze Oxide",
+      "trim": "Tacoma Double at",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-duncan-mirror/new/cc81f82fe51f.html",
       "source_url": "https://www.jptoyota-duncan.com/vehicles/2026/toyota/tacoma/duncan/bc/71272808/?sale_class=new",
       "dealer_url": "https://www.jptoyota-duncan.com/vehicles/2026/toyota/tacoma/duncan/bc/71272808/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -546,14 +637,17 @@
       "odometer_km": 17,
       "year": 2026,
       "make": "Toyota",
-      "model": "Tacoma Tacoma Double Cab at",
-      "condition": "new"
+      "model": "Tacoma",
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Tacoma Tacoma Double Cab at",
       "vin": "3TYLB5JNXTT726727",
       "stock": "JP17267",
       "color": "Celestial Silver Metallic",
+      "trim": "Tacoma Double at",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-duncan-mirror/new/255c5444de03.html",
       "source_url": "https://www.jptoyota-duncan.com/vehicles/2026/toyota/tacoma/duncan/bc/71272810/?sale_class=new",
       "dealer_url": "https://www.jptoyota-duncan.com/vehicles/2026/toyota/tacoma/duncan/bc/71272810/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -563,14 +657,17 @@
       "odometer_km": 17,
       "year": 2026,
       "make": "Toyota",
-      "model": "Tacoma Tacoma Double Cab at",
-      "condition": "new"
+      "model": "Tacoma",
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Tacoma Tacoma Double Cab at",
       "vin": "3TYLB5JN5TT726473",
       "stock": "JP17264",
       "color": "Celestial Silver Metallic",
+      "trim": "Tacoma Double at",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-duncan-mirror/new/83504b422f68.html",
       "source_url": "https://www.jptoyota-duncan.com/vehicles/2026/toyota/tacoma/duncan/bc/71272812/?sale_class=new",
       "dealer_url": "https://www.jptoyota-duncan.com/vehicles/2026/toyota/tacoma/duncan/bc/71272812/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -580,14 +677,17 @@
       "odometer_km": 17,
       "year": 2026,
       "make": "Toyota",
-      "model": "Tacoma Tacoma Double Cab at",
-      "condition": "new"
+      "model": "Tacoma",
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Tacoma Tacoma Double Cab at",
       "vin": "3TYLB5JN6TT729981",
       "stock": "JP17299",
       "color": "Black",
+      "trim": "Tacoma Double at",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-duncan-mirror/new/8bd7c1238656.html",
       "source_url": "https://www.jptoyota-duncan.com/vehicles/2026/toyota/tacoma/duncan/bc/71272814/?sale_class=new",
       "dealer_url": "https://www.jptoyota-duncan.com/vehicles/2026/toyota/tacoma/duncan/bc/71272814/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -597,14 +697,17 @@
       "odometer_km": 17,
       "year": 2026,
       "make": "Toyota",
-      "model": "Tacoma Tacoma Double Cab at",
-      "condition": "new"
+      "model": "Tacoma",
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Tacoma Tacoma Double Cab at",
       "vin": "3TYLB5JN2TT725555",
       "stock": "JP17255",
       "color": "Underground",
+      "trim": "Tacoma Double at",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-duncan-mirror/new/ddfae5393c4d.html",
       "source_url": "https://www.jptoyota-duncan.com/vehicles/2026/toyota/tacoma/duncan/bc/71272815/?sale_class=new",
       "dealer_url": "https://www.jptoyota-duncan.com/vehicles/2026/toyota/tacoma/duncan/bc/71272815/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -614,14 +717,17 @@
       "odometer_km": 17,
       "year": 2026,
       "make": "Toyota",
-      "model": "Tacoma Tacoma Double Cab at",
-      "condition": "new"
+      "model": "Tacoma",
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Tacoma Tacoma Double Cab at",
       "vin": "3TYLB5JNXTT727876",
       "stock": "JP17278",
       "color": "White",
+      "trim": "Tacoma Double at",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-duncan-mirror/new/f1fe35bbf269.html",
       "source_url": "https://www.jptoyota-duncan.com/vehicles/2026/toyota/tacoma/duncan/bc/71272818/?sale_class=new",
       "dealer_url": "https://www.jptoyota-duncan.com/vehicles/2026/toyota/tacoma/duncan/bc/71272818/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -631,14 +737,17 @@
       "odometer_km": 17,
       "year": 2026,
       "make": "Toyota",
-      "model": "Tacoma Tacoma Double Cab at",
-      "condition": "new"
+      "model": "Tacoma",
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Tacoma Tacoma Double Cab at",
       "vin": "3TYLB5JN1TT725465",
       "stock": "JP17254",
       "color": "Heritage Blue",
+      "trim": "Tacoma Double at",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-duncan-mirror/new/cc0d30fd6f7c.html",
       "source_url": "https://www.jptoyota-duncan.com/vehicles/2026/toyota/tacoma/duncan/bc/71272821/?sale_class=new",
       "dealer_url": "https://www.jptoyota-duncan.com/vehicles/2026/toyota/tacoma/duncan/bc/71272821/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -648,14 +757,17 @@
       "odometer_km": 17,
       "year": 2026,
       "make": "Toyota",
-      "model": "Tacoma Tacoma Double Cab at",
-      "condition": "new"
+      "model": "Tacoma",
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Tacoma Tacoma Double Cab at",
       "vin": "3TYLB5JN9TT729862",
       "stock": "JP17298",
       "color": "Black",
+      "trim": "Tacoma Double at",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-duncan-mirror/new/1d7ea68fc966.html",
       "source_url": "https://www.jptoyota-duncan.com/vehicles/2026/toyota/tacoma/duncan/bc/71283685/?sale_class=new",
       "dealer_url": "https://www.jptoyota-duncan.com/vehicles/2026/toyota/tacoma/duncan/bc/71283685/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -665,14 +777,17 @@
       "odometer_km": 17,
       "year": 2026,
       "make": "Toyota",
-      "model": "Tacoma Tacoma Double Cab at",
-      "condition": "new"
+      "model": "Tacoma",
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Tundra CrewMax Tundra CrewMax Limited",
       "vin": "5TFWA5DB0TX689362",
       "stock": "JP16893",
       "color": "Magnetic Grey Metallic",
+      "trim": "Tundra CrewMax Limited",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-duncan-mirror/new/b686733425ca.html",
       "source_url": "https://www.jptoyota-duncan.com/vehicles/2026/toyota/tundra-crewmax/duncan/bc/70752372/?sale_class=new",
       "dealer_url": "https://www.jptoyota-duncan.com/vehicles/2026/toyota/tundra-crewmax/duncan/bc/70752372/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -682,14 +797,17 @@
       "odometer_km": 17,
       "year": 2026,
       "make": "Toyota",
-      "model": "Tundra CrewMax Tundra CrewMax Limited",
-      "condition": "new"
+      "model": "Tundra",
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Tundra CrewMax Tundra CrewMax Limited Nightshade",
       "vin": "5TFWA5DB0TX714531",
       "stock": "JP17145",
       "color": "Blueprint",
+      "trim": "Tundra CrewMax Limited Nightshade",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-duncan-mirror/new/a465b171c062.html",
       "source_url": "https://www.jptoyota-duncan.com/vehicles/2026/toyota/tundra-crewmax/duncan/bc/71135965/?sale_class=new",
       "dealer_url": "https://www.jptoyota-duncan.com/vehicles/2026/toyota/tundra-crewmax/duncan/bc/71135965/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -699,14 +817,17 @@
       "odometer_km": 17,
       "year": 2026,
       "make": "Toyota",
-      "model": "Tundra CrewMax Tundra CrewMax Limited Nightshade",
-      "condition": "new"
+      "model": "Tundra",
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Tundra CrewMax Tundra CrewMax Limited",
       "vin": "5TFWA5DB0TX714595",
       "stock": "JP17145",
       "color": "Blueprint",
+      "trim": "Tundra CrewMax Limited",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-duncan-mirror/new/ce782030e9d9.html",
       "source_url": "https://www.jptoyota-duncan.com/vehicles/2026/toyota/tundra-crewmax/duncan/bc/71135969/?sale_class=new",
       "dealer_url": "https://www.jptoyota-duncan.com/vehicles/2026/toyota/tundra-crewmax/duncan/bc/71135969/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -716,14 +837,17 @@
       "odometer_km": 17,
       "year": 2026,
       "make": "Toyota",
-      "model": "Tundra CrewMax Tundra CrewMax Limited",
-      "condition": "new"
+      "model": "Tundra",
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Tundra CrewMax Tundra CrewMax Platinum",
       "vin": "5TFMA5DB0TX689540",
       "stock": "JP16895",
       "color": "Magnetic Grey Metallic",
+      "trim": "Tundra CrewMax Platinum",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-duncan-mirror/new/7b81c3bb1349.html",
       "source_url": "https://www.jptoyota-duncan.com/vehicles/2026/toyota/tundra-crewmax/duncan/bc/71135988/?sale_class=new",
       "dealer_url": "https://www.jptoyota-duncan.com/vehicles/2026/toyota/tundra-crewmax/duncan/bc/71135988/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -733,14 +857,17 @@
       "odometer_km": 17,
       "year": 2026,
       "make": "Toyota",
-      "model": "Tundra CrewMax Tundra CrewMax Platinum",
-      "condition": "new"
+      "model": "Tundra",
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Tundra CrewMax 4x4 Crewmax Limited",
       "vin": "5TFWA5DB3TX708898",
       "stock": "JP17088",
       "color": "Wind Chill Pearl",
+      "trim": "Crewmax Limited",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-duncan-mirror/new/163fe91fe25c.html",
       "source_url": "https://www.jptoyota-duncan.com/vehicles/2026/toyota/tundra-crewmax/duncan/bc/71221429/?sale_class=new",
       "dealer_url": "https://www.jptoyota-duncan.com/vehicles/2026/toyota/tundra-crewmax/duncan/bc/71221429/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -750,14 +877,17 @@
       "odometer_km": 17,
       "year": 2026,
       "make": "Toyota",
-      "model": "Tundra CrewMax 4x4 Crewmax Limited",
-      "condition": "new"
+      "model": "Tundra",
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Tundra CrewMax 4x4 Crewmax Limited",
       "vin": "5TFWA5DB5TX443059",
       "stock": "N26298",
       "color": "Blueprint",
+      "trim": "Crewmax Limited",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-duncan-mirror/new/b2ebf554c50b.html",
       "source_url": "https://www.jptoyota-duncan.com/vehicles/2026/toyota/tundra-crewmax/duncan/bc/71310325/?sale_class=new",
       "dealer_url": "https://www.jptoyota-duncan.com/vehicles/2026/toyota/tundra-crewmax/duncan/bc/71310325/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -767,14 +897,17 @@
       "odometer_km": 3,
       "year": 2026,
       "make": "Toyota",
-      "model": "Tundra CrewMax 4x4 Crewmax Limited",
-      "condition": "new"
+      "model": "Tundra",
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2026 Toyota Tundra Double Cab Double Cab SR",
       "vin": "5TFLA5DA8TX431269",
       "stock": "N26263",
       "color": "White",
+      "trim": "SR",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-duncan-mirror/new/911aa377de76.html",
       "source_url": "https://www.jptoyota-duncan.com/vehicles/2026/toyota/tundra-double-cab/duncan/bc/70922612/?sale_class=new",
       "dealer_url": "https://www.jptoyota-duncan.com/vehicles/2026/toyota/tundra-double-cab/duncan/bc/70922612/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -784,14 +917,17 @@
       "odometer_km": 3,
       "year": 2026,
       "make": "Toyota",
-      "model": "Tundra Double Cab Double Cab SR",
-      "condition": "new"
+      "model": "Tundra",
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2027 Toyota bZ XLE AWD",
       "vin": "JTMADAFB4VJ032927",
       "stock": "N27006",
       "color": "Blueprint",
+      "trim": "XLE",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-duncan-mirror/new/78d5d985f619.html",
       "source_url": "https://www.jptoyota-duncan.com/vehicles/2027/toyota/bz/duncan/bc/71374244/?sale_class=new",
       "dealer_url": "https://www.jptoyota-duncan.com/vehicles/2027/toyota/bz/duncan/bc/71374244/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -801,8 +937,10 @@
       "odometer_km": 3,
       "year": 2027,
       "make": "Toyota",
-      "model": "bZ XLE AWD",
-      "condition": "new"
+      "model": "bZ",
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2027 Toyota Land Cruiser 4WD",
@@ -819,13 +957,16 @@
       "year": 2027,
       "make": "Toyota",
       "model": "Land Cruiser 4WD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     },
     {
       "name": "2027 Toyota Prius Plug-In Hybrid XSE Premium",
       "vin": "JTDACACU6V3083374",
       "stock": "N27003",
       "color": "Cutting Edge Silver",
+      "trim": "XSE Premium",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-duncan-mirror/new/ebdafe227822.html",
       "source_url": "https://www.jptoyota-duncan.com/vehicles/2027/toyota/prius-plug-in-hybrid/duncan/bc/70958312/?sale_class=new",
       "dealer_url": "https://www.jptoyota-duncan.com/vehicles/2027/toyota/prius-plug-in-hybrid/duncan/bc/70958312/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -835,8 +976,10 @@
       "odometer_km": 3,
       "year": 2027,
       "make": "Toyota",
-      "model": "Prius Plug-In Hybrid XSE Premium",
-      "condition": "new"
+      "model": "Prius Prime",
+      "condition": "new",
+      "city": "Duncan",
+      "province": "BC"
     }
   ]
 }
