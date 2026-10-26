@@ -1,7 +1,7 @@
 {
   "dealership": "Jim Pattison Toyota Duncan",
-  "generated_at": "2026-10-25T19:20:45",
-  "vehicle_count": 68,
+  "generated_at": "2026-10-25T19:24:34",
+  "vehicle_count": 66,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -257,17 +257,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Toyota Sienna Limited AWD 7-Pass",
-      "vin": "5TDGSKFC8TS284940",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-duncan-mirror/new/19a22b8700af.html",
-      "year": 2026,
-      "make": "Toyota",
-      "model": "Sienna",
-      "condition": "new",
-      "price": 75236.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Toyota Tacoma Hybrid TRD Off Road Premium Double Cab",
       "vin": "3TYLC5LNXTT074380",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-duncan-mirror/new/4cb5193ac66e.html",
@@ -430,17 +419,6 @@
       "model": "Tacoma",
       "condition": "new",
       "price": 64445.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Toyota Tacoma Double Cab at",
-      "vin": "3TYLB5JN8TT156744",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-duncan-mirror/new/94e6f03feaf6.html",
-      "year": 2026,
-      "make": "Toyota",
-      "model": "Tacoma",
-      "condition": "new",
-      "price": 55243.0,
       "price_currency": "CAD"
     },
     {
@@ -668,7 +646,9 @@
       "year": 2027,
       "make": "Toyota",
       "model": "Prius Prime",
-      "condition": "new"
+      "condition": "new",
+      "price": 440027.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2027 Toyota Prius Plug-In Hybrid SE",
@@ -677,7 +657,9 @@
       "year": 2027,
       "make": "Toyota",
       "model": "Prius Prime",
-      "condition": "new"
+      "condition": "new",
+      "price": 43677.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2027 Toyota Prius Plug-In Hybrid SE",
@@ -686,7 +668,9 @@
       "year": 2027,
       "make": "Toyota",
       "model": "Prius Prime",
-      "condition": "new"
+      "condition": "new",
+      "price": 43677.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2027 Toyota Prius Plug-In Hybrid SE",
@@ -695,7 +679,9 @@
       "year": 2027,
       "make": "Toyota",
       "model": "Prius Prime",
-      "condition": "new"
+      "condition": "new",
+      "price": 43677.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2027 Toyota Prius Plug-In Hybrid XSE",
@@ -704,7 +690,9 @@
       "year": 2027,
       "make": "Toyota",
       "model": "Prius Prime",
-      "condition": "new"
+      "condition": "new",
+      "price": 48007.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2027 Toyota Prius Plug-In Hybrid XSE",
@@ -713,7 +701,9 @@
       "year": 2027,
       "make": "Toyota",
       "model": "Prius Prime",
-      "condition": "new"
+      "condition": "new",
+      "price": 48357.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2027 Toyota Prius Plug-In Hybrid SE",
@@ -731,7 +721,9 @@
       "year": 2027,
       "make": "Toyota",
       "model": "Prius Prime",
-      "condition": "new"
+      "condition": "new",
+      "price": 43677.0,
+      "price_currency": "CAD"
     }
   ]
 }
